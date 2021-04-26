@@ -2,19 +2,19 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "69ctHFTogTv":
+      case "69KNfZz8J4D":
         Script1();
         break;
-      case "6bNye6LVMdk":
+      case "6JvDPayDUia":
         Script2();
         break;
-      case "6lVYWDctPvO":
+      case "6ZqKSYgYURk":
         Script3();
         break;
-      case "6XPc5bbNKjn":
+      case "6ElPFKdoHpe":
         Script4();
         break;
-      case "6I6euUqdSWq":
+      case "6asTuWYhoAo":
         Script5();
         break;
   }
@@ -38,7 +38,7 @@ function add_line() {
 if(document.getElementById('bgSong')==null){
 	add_line();
 var audio = document.getElementById('bgSong');
-audio.volume = 0.05;
+audio.volume = 0.03;
 }
 
 }
